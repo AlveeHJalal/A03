@@ -29,9 +29,19 @@ Assignment A03
 2. Create your account by filling out the form and all the requirements and choosing a plan [can choose free plan]. 
 
 **Connect GIT to WebStorm**
-1. Open WebStorm. Press (CTRL+ALT+S) and select version control GIT and enter the file pathway leading to the git.exe file to connect webstorm to GIT. *(Hendela)*
+1. Open WebStorm. Press (CTRL+ALT+S) and select version control GIT and enter the file pathway leading to the git.exe file to connect webstorm to GIT. If git is installed correctly, you should see the message "Git Executed Successfully" *(Hendela)*
 2. Add GitHub password to webstorm under App Apperance Behavior -> System Settings -> Passwords and add a location for the password.*(Hendela)*
 
+
 **Upload files to GitHub from WebStorm**
-1. Create a repository by going to your profile (click on the profile icon on top right), clicking on  repositories module, then the green "new" button
-2. 
+1. Create a repository by going to your profile (click on the profile icon on top right), clicking on  repositories module, then the green "new" button. Add information and make repository public and check "Add a README file" option. Click "Create repository"
+2. Create repository on WebStorm by first clicking on "+ Create New Project" and choose a location and name. (Hendela)
+3. Create a new file (for this class, and HTML5 file) by clicking File-> New -> HTML File -> HTML5 and name the file. (Hendela)
+4. Finally make the Git Repository by: Make changes to the file, then click VCS -> Import Version Control -> Create Git Repository -> OK
+5.Commit changes to GIT: VCS -> Git -> Commit File - > Click Commit
+6.
+7.
+8.
+9.
+
+
