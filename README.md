@@ -2,7 +2,7 @@
 Assignment A03
 **PART I:**
 
-****Installing Webstorm (For Windows):
+**Installing Webstorm (For Windows):**
 1. Go to this website: https://www.jetbrains.com/student/  *(Hendela)*
 2. Scroll down and click "For students and teachers" module and click on "Apply now."
 3. [In our case for NJIT students]click on the "Official Document" module and fill out the required information[Don't forget to upload a picture of your school ID as an official document.]
@@ -24,7 +24,7 @@ Assignment A03
 8. Type in: "git version" into the Command Prompt and hit enter and the name of the version you installed should come up. This confirms a successfull install. *(Git Guides-Install Git).*
 
 
-**Setup GitHub, connect it to WebStorm, upload files to GitHub from WebStorm **
+**Setup GitHub, connect it to WebStorm, upload files to GitHub from WebStorm**
 1. .
 2. .
 3. .
