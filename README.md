@@ -35,13 +35,24 @@ Assignment A03
 
 **Upload files to GitHub from WebStorm**
 1. Create a repository by going to your profile (click on the profile icon on top right), clicking on  repositories module, then the green "new" button. Add information and make repository public and check "Add a README file" option. Click "Create repository"
-2. Create repository on WebStorm by first clicking on "+ Create New Project" and choose a location and name. (Hendela)
-3. Create a new file (for this class, and HTML5 file) by clicking File-> New -> HTML File -> HTML5 and name the file. (Hendela)
+2. Create repository on WebStorm by first clicking on "+ Create New Project" and choose a location and name. *(Hendela)*
+3. Create a new file (for this class, and HTML5 file) by clicking File-> New -> HTML File -> HTML5 and name the file. *(Hendela)*
 4. Finally make the Git Repository by: Make changes to the file, then click VCS -> Import Version Control -> Create Git Repository -> OK
-5.Commit changes to GIT: VCS -> Git -> Commit File - > Click Commit
-6.
-7.
-8.
-9.
+5.Commit changes to GIT: VCS -> Git -> Commit File - > Click Commit *(Hendela)*
+6. Click VCS ->Import Version Control -> Share Project On GitHub ->Share. New file and repository is now on GitHub! *(Hendala)*
 
+**Updating changes from WebStorm to GitHub**
+1. Make a change in the WebStorm file 
+2.Commit changes to GIT: VCS->Git->Commit*(Hendala)*
+3 Send changes to GitHub: VCS->Git->Push.*(Hendala)*
+4. Changes updated on GitHub! 
+
+**Final Touches: Check/Choose GitHub Location**
+1. Under "GitHub Pages" select Master Branch for source 
+2. Paste your GitHub URL into browser and check if everything is there!
+
+
+
+
+**PART II:**
 
