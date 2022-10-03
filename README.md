@@ -24,13 +24,14 @@ Assignment A03
 8. Type in: "git version" into the Command Prompt and hit enter and the name of the version you installed should come up. This confirms a successfull install. *(Git Guides-Install Git).*
 
 
-**Setup GitHub, connect it to WebStorm, upload files to GitHub from WebStorm**
-1. .
-2. .
-3. .
-4. .
-5. .
-6. .
-7. .
-8. .
-9. 
+**Setup GitHub**
+1. Go to this website: https://github.com/join
+2. Create your account by filling out the form and all the requirements and choosing a plan [can choose free plan]. 
+
+**Connect GIT to WebStorm**
+1. Open WebStorm. Press (CTRL+ALT+S) and select version control GIT and enter the file pathway leading to the git.exe file to connect webstorm to GIT. *(Hendela)*
+2. Add GitHub password to webstorm under App Apperance Behavior -> System Settings -> Passwords and add a location for the password.*(Hendela)*
+
+**Upload files to GitHub from WebStorm**
+1. Create a repository by going to your profile (click on the profile icon on top right), clicking on  repositories module, then the green "new" button
+2. 
