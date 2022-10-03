@@ -61,8 +61,8 @@ Assignment A03
 2. **Clone** : In terms of repositories, a clone is a copy of a repository stored locally on your computer and can be synced with your original remote repository on GitHub *(GitHub Glossary)*
 3.  **Commit** : A moment when you make a change to your file, you would have to submit your changes under a unique ID to keep track of your changes. You can include a comment on the changes before submitting a commit. *(GitHub Glossary)*
 4.**Fetch** :  Fetching involves adding changes from your remote repository on GitHub.com to your local repository on your machine without needing to submit commits. *(GitHub Glossary)*
-5. **GIT** : A free to use program for keeping logs of changes in text files. Written by the author of Linux, it's the main technology that GitHub is built ontop of. *(GitHub Glossary)*
-6. **Github** : A place where users can post files of code of their projects to the public or in private and are able to collaborate with others through the web on their projects. 
+5.  **GIT** : A free to use program for keeping logs of changes in text files. Written by the author of Linux, it's the main technology that GitHub is built ontop of. *(GitHub Glossary)*.
+6.  **Github** : A place where users can post files of code of their projects to the public or in private and are able to collaborate with others through the web on their projects. 
 7.**Merge** Taking the changes from one branch in the same repository or from a fork and adding them to another branch. This happens through a "pull request" or request to merge and can happen through the command line or the GitHub website.*(GitHub Glossary)*
 8.  **Merge Conflict** : A conflict within branches that are merged. Happens when multiple people make changes to a file simultaneously, or when one edits a file and the other deletes it. You can't merge branches until this issue is solved.*(GitHub Glossary)*
 9. **Push** : *(GitHub Glossary)*
