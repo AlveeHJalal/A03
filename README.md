@@ -65,11 +65,7 @@ Assignment A03
 6.   **Github** : A place where users can post files of code of their projects to the public or in private and are able to collaborate with others through the web on their projects. 
 7. **Merge** Taking the changes from one branch in the same repository or from a fork and adding them to another branch. This happens through a "pull request" or request to merge and can happen through the command line or the GitHub website.*(GitHub Glossary)*
 8.  **Merge Conflict** : A conflict within branches that are merged. Happens when multiple people make changes to a file simultaneously, or when one edits a file and the other deletes it. You can't merge branches until this issue is solved.*(GitHub Glossary)*
-9.  **Push** : *(GitHub Glossary)*
-10.  **Pull**:
-11.  **Remote**:
-12.  **Repository** : 
-
-
-
- 
+9.  **Push** : To send your changes to the remote repository on GitHub.com  *(GitHub Glossary)*
+10.  **Pull**: When you take in and merge changes from the remote repository from GitHub.com *(GitHub Glossary)*
+11.  **Remote**: The version of the repository or branch that is located on GitHub.com. These can be connected to local repositories on your machine to sync changes. *(GitHub Glossary)*
+12.  **Repository** : Basically a project's folder. It contains all project files and revision history. Can be public or private and shared with multiple people who can contribute to the project. *(GitHub Glossary)*
