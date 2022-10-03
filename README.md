@@ -58,10 +58,10 @@ Assignment A03
 
 **PART II:**
 
-1 .**Branch** : 
-2. **Clone** : 
-3. **Commit** : 
-4. **Fetch** :  
+1 .**Branch** : A component in Git which you can separate work in a different spot without affecting other branches in the repository. This is all done in a contained area of the repository. *(Git Guides)*
+2. **Clone** : In terms of repositories, a clone is a copy of a repository stored locally on your computer and can be synced with your original remote repository on GitHub *(Git Guides)*
+3. **Commit** : A moment when you make a change to your file, you would have to submit your changes under a unique ID to keep track of your changes. You can include a comment on the changes before submitting a commit. *(Git Guides)*
+4. **Fetch** :  Fetching involves adding changes from your remote repository on GitHub.com to your local repository on your machine without needing to submit commits. 
 5. **GIT** : 
 6. **Github** : 
 7. **Merge** : 
